@@ -1,4 +1,4 @@
- <h1 align="center">### Hola amigos, soy Adwaita... 👋
+ <h1 align="center">### Hola amigos, soy Adwaita...<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
  <h3 align="center">A thriving developer from Howrah, West-Bengal, India</h3>
 <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px"/></a>
