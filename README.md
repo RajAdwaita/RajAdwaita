@@ -57,13 +57,15 @@
   
 <!--   <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" style="max-width:100%" float="right"> -->
   
-  <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" style="max-width:100%" float="right">
+  <p align="center"> 
+ <img   src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" style="max-width:100%" float="right">
   
 <!--   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdwaita&theme=light&hide_langs_below=1" style="max-width:100%" style="margin-left:225px"> -->
    <!-- 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&bg_color=191919&text_color=daf7dc" alt="rajadwaita" /></p> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rajadwaita" /></p>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rajadwaita" />
+</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajadwaita&show_icons=true&locale=en" alt="rajadwaita" /></p> -->
 </br>
