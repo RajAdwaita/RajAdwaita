@@ -20,6 +20,9 @@
 - 📫 How to reach me: <a>adwaitaraj@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have no friends
+- 👥 Core team member at [@ADG-VIT](https://github.com/ADG-VIT)
+- 👥 Core team member at [@IoThinC-VIT](https://github.com/IoThinc-VIT)
+
 </br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajadwaita&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
