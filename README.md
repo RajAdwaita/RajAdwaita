@@ -1,7 +1,7 @@
  <h1 align="center">### Hola amigos, soy Adwaita...
 </h1>
  <h3 align="center">A thriving developer from Howrah, West-Bengal, India</h3>
-<!-- <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px"/></a> -->
+<!-- <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px" align-items="center"/></a> -->
 
 </br></br>
 
