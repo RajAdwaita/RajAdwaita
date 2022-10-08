@@ -21,7 +21,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have no friends
 - 👥 Core team member at [@ADG-VIT](https://github.com/ADG-VIT)
-- 👥 Core team member at [@IoThinC-VIT](https://github.com/IoThinc-VIT)
 
 </br>
 
