@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on frontend development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on creative projects
 - 🤔 I’m looking for open source experience
 - 💬 Ask me about whatever u like
