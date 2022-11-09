@@ -18,8 +18,6 @@
 - 🤔 I’m looking for open source experience
 - 💬 Ask me about whatever u like
 - 📫 How to reach me: <a>adwaitaraj@gmail.com</a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I have no friends
 - 👥 Core team member at [@ADG-VIT](https://github.com/ADG-VIT)
 
 </br>
