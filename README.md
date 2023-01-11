@@ -87,34 +87,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-## 📊 My Github Stats
-
-  
-<!--   <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" style="max-width:100%" float="right"> -->
-  
-  <p align="center"> 
- <img   src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&theme=shades-of-purple&hide_border=true&bg_color=0D1117" style="max-width:100%" float="right">
-  
-<!--   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdwaita&theme=light&hide_langs_below=1" style="max-width:100%" style="margin-left:225px"> -->
-   <!-- 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&bg_color=191919&text_color=daf7dc" alt="rajadwaita" /></p> -->
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RajAdwaita&show_icons=true&locale=en&layout=compact&theme=shaeds-of-purple&hide_border=true&bg_color=0D1117" alt="RajAdwaita" />
-</p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajadwaita&show_icons=true&locale=en" alt="rajadwaita" /></p> -->
-</br>
-<p align="center">
- <a>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=RajAdwaita&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="RajAdwaita" /></a>
-</p>
-
-<img width="97%" src="https://activity-graph.herokuapp.com/graph?username=rajadwaita&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   ## ❤ Views and Followers
   <p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
