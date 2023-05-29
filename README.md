@@ -1,7 +1,7 @@
  <h1 align="center"> Adwaita
 </h1>
 
-<h2>Sorry for no activity for the last 3 months</h2>
+<h2 align="center">Sorry for no activity for the last 3 months</h2>
  <h3 align="center">Howrah, West-Bengal, India</h3>
 <!-- <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px" align-items="center"/></a> -->
 
