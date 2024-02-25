@@ -1,16 +1,17 @@
  <h1 align="center"> Adwaita
 </h1>
-
+<!-- 
 <h2 align="center">No Money --- No Honey</h2>
  <h3 align="center">Howrah, West-Bengal, India</h3>
+ -->
 <!-- <a href="#"><img width="auto" height="auto" src="https://wallpapercave.com/wp/wp4785064.gif" height="175px" align-items="center"/></a> -->
-
+<!--
 </br></br>
-
+-->
 <!-- Here are some ideas to get you started: -->
 <!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
-
+<!--
 ## 🙋‍♂️ About Me
 
 
@@ -19,22 +20,21 @@
 - 👯 I’m looking to collaborate on creative projects
 - 🤔 I’m looking for open source experience
 - 💬 Ask me about whatever u like
-- 📫 How to reach me: <a>adwaitaraj@gmail.com</a>
 - 👥 Core team member at [@ADG-VIT](https://github.com/ADG-VIT)
 
 </br>
+-->
+- 📫 How to reach me: <a>adwaitaraj@gmail.com</a>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajadwaita&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
 
 
 <!-- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajadwaita" alt="rajadwaita" /></a> </p> -->
 
-</br>
-
 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-
+<!--
 ## Connect with me:
 
 <p align="left">
@@ -48,6 +48,7 @@
 
 </p>
 </br></br>
+-->
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
 
@@ -58,7 +59,7 @@
 </br>
 </br> -->
 
-
+<!--
 ## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -88,7 +89,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+-->
   ## ❤ Views and Followers
   <p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
